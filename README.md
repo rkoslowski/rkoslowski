@@ -1,18 +1,15 @@
 <div align="center">
     
-<img src="https://raw.githubusercontent.com/rkoslowski/rkoslowski/master/readme.gif" align="right" width="49%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3000&pause=1000&color=49C2F7&center=true&vCenter=true&repeat=false&random=false&width=1300&height=140&lines=Hello+World!+I'm+Rouven" />
+<img src="https://raw.githubusercontent.com/rkoslowski/rkoslowski/master/readme.gif" width="49%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3000&pause=1000&color=49C2F7&center=true&vCenter=true&repeat=false&random=false&width=1300&height=140&lines=Hello+World!+I'm+Rouven" width="49%" />
 
 <br><br><br>
-<div align="left">
 <pre>
-                💼 MSC @ TU Berlin • Software Developer • Cybersecurity Engineer
-                💻 System Programming Languages • Reverse Engineering • Penetration Testing
-                💾 Computer Architecture • Distributed Systems and Networks
-                🌱 Language Learning • Music • Code • Reading Books • Badminton    
+💼 MSC @ TU Berlin • Software Developer • Cybersecurity Engineer
+💻 System Programming Languages • Reverse Engineering • Penetration Testing
+💾 Computer Architecture • Distributed Systems and Networks
+🌱 Language Learning • Music • Code • Reading Books • Badminton    
 </pre>
-</div>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
