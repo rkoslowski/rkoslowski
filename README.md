@@ -1,6 +1,6 @@
 <div align="center">
     
-<img src="https://raw.githubusercontent.com/rkoslowski/rkoslowski/master/readme.gif" align="right" width="80%" />
+<img src="https://raw.githubusercontent.com/rkoslowski/rkoslowski/master/readme.gif" align="right" width="49%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3000&pause=1000&color=49C2F7&center=true&vCenter=true&repeat=false&random=false&width=1300&height=140&lines=Hello+World!+I'm+Rouven" width="100%" />
 
