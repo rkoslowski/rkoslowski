@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/rkoslowski/rkoslowski/assets/readme.gif" align="right" />
+<img src="https://github.com/rkoslowski/rkoslowski/assets/readme.gif" />
     
 ## Hello World! I am Rouven
 
