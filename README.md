@@ -1,18 +1,5 @@
 <div align="center">
     
-<img src="https://raw.githubusercontent.com/rkoslowski/rkoslowski/master/readme.gif" width="100%" />
+<img src=https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3000&pause=1000&color=49C2F7&multiline=true&repeat=false&random=false&width=1280&height=1024&lines=Hello+World!+I'm+Rouvenf+jek+;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex />
 
 <br>
-<pre>
-💼 MSC @ TU Berlin • Software Developer • Cybersecurity Engineer
-💻 System Programming Languages • Reverse Engineering • Penetration Testing
-💾 Computer Architecture • Distributed Systems and Networks
-🌱 Language Learning • Music • Code • Reading Books • Badminton    
-</pre>
-<br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br><br>
-    
-[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/rouvenkoslowski/)
-[![](https://img.shields.io/badge/leetcode-FFA500)](https://leetcode.com/d3f4ult_byt3/)
-</div>
