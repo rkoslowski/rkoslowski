@@ -2,7 +2,7 @@
 
 ## Hello World! I am Rouven
 
-<br><br>
+<br>
 <pre>
 💼 MSC @ TU Berlin • Software Developer • Cybersecurity Engineer
 💻 System Programming Languages • Reverse Engineering • Penetration Testing
