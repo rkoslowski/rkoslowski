@@ -1,12 +1,6 @@
 <div align="center">
-Hello World! I am Rouven
 
-# H1 Headline
-## H2 Headline
-### H3 Headline
-#### H4 Headline
-##### H5 Headline
-###### H6 Headline
+## Hello World! I am Rouven
 
 <br><br>
 <pre>
