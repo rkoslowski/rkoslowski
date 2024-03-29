@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://github.com/rkoslowski/rkoslowski/assets/readme.gif" />
+    
+<img src="https://raw.githubusercontent.com/rkoslowski/rkoslowski/master/readme.gif" height="40" />
     
 ## Hello World! I am Rouven
 
