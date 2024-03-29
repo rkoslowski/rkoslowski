@@ -7,10 +7,10 @@
 <br><br><br>
 <div align="left">
 <pre>
-💼 MSC @ TU Berlin • Software Developer • Cybersecurity Engineer
-💻 System Programming Languages • Reverse Engineering • Penetration Testing
-💾 Computer Architecture • Distributed Systems and Networks
-🌱 Language Learning • Music • Code • Reading Books • Badminton    
+            💼 MSC @ TU Berlin • Software Developer • Cybersecurity Engineer
+            💻 System Programming Languages • Reverse Engineering • Penetration Testing
+            💾 Computer Architecture • Distributed Systems and Networks
+            🌱 Language Learning • Music • Code • Reading Books • Badminton    
 </pre>
 </div>
 <br><br>
