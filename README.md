@@ -14,5 +14,5 @@
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/rouvenkoslowski/)
-[![](https://img.shields.io/badge/LeetCode-FFA500)](https://leetcode.com/d3f4ult_byt3/)
+[![](https://img.shields.io/badge/leetcode-FFA500)](https://leetcode.com/d3f4ult_byt3/)
 </div>
