@@ -4,9 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3000&pause=1000&color=49C2F7&center=true&vCenter=true&repeat=false&random=false&width=1300&height=140&lines=Hello+World!+I'm+Rouven" width="60%" />
 
-<br>
-<br>
-<br>
+<br><br><br><br><br><br><br><br>
 <pre>
 💼 MSC @ TU Berlin • Software Developer • Cybersecurity Engineer
 💻 System Programming Languages • Reverse Engineering • Penetration Testing
