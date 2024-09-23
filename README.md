@@ -4,10 +4,10 @@
 
 <br>
 <pre>
-💼 MSC @ TU Berlin • Software Developer • Cybersecurity Engineer
+💼 MSC @ TU Berlin     •   Software Developer    •    Cybersecurity Engineer
 💻 System Programming Languages • Reverse Engineering • Penetration Testing
-💾 Computer Architecture • Distributed Systems and Networks
-🌱 Language Learning • Music • Code • Reading Books • Badminton    
+💾 Computer Architecture         •         Distributed Systems and Networks
+🌱 Language Learning   •   Music  •   Code   •  Reading Books  •  Badminton    
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
